@@ -38,4 +38,4 @@ ML/Data     Jupyter · scikit-learn · NLP
 
 📍 Bengaluru, India &nbsp;|&nbsp; Open to remote & Middle East roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mohammedfazil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammedfazz)
