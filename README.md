@@ -26,6 +26,8 @@ Backend Engineer at **Swiggy** — India's largest food delivery platform, build
 - Reduced Logistics API P99 latency by **96%** via GOGC tuning + `sync.Pool` object pooling
 - Open to **remote** and **Middle East** opportunities
 
+> Most production work (Swiggy Logistics, 10M+ users) is on my company GitHub. Commits here reflect personal and side projects.
+
 ---
 
 ### Tech Stack
